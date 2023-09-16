@@ -1,0 +1,2 @@
+panther==3.0.0
+uvicorn[standard]
